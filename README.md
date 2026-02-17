@@ -32,4 +32,4 @@ This project shows how to detect drift and translate it into actionable decision
 4. `04_drift_detection_analysis.ipynb` — drift metrics + operational interpretation
 
 ## Dashboard
-Add `tableau/monitoring_dashboard.png` and reference it here once created.
+TBD
